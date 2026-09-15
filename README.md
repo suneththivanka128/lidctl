@@ -47,7 +47,7 @@ turn off, but the system keeps running.
 ## Installation
 
 ```bash
-git clone https://github.com/suneththivanka128/lid-toggle.git
+https://github.com/suneththivanka128/lidctl.git
 cd lid-toggle
 chmod +x install.sh
 ./install.sh
