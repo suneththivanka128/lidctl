@@ -1,4 +1,4 @@
-# lid-toggle
+# lidctl
 
 A one-click desktop toggle for Ubuntu 24.04 (GNOME) that disables/enables
 laptop lid-suspend behaviour — useful when you want to close the lid and
@@ -48,7 +48,7 @@ turn off, but the system keeps running.
 
 ```bash
 git clone https://github.com/suneththivanka128/lidctl.git
-cd lid-toggle
+cd lidctl
 chmod +x install.sh
 ./install.sh
 ```
