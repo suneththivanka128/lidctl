@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Toggle Lid Sleep
+Exec=bash -c "$HOME/toggle-lid.sh"
+Icon=preferences-system-power
+Terminal=false
